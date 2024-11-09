@@ -85,7 +85,16 @@ h2{
             width: 33.33%;
             padding: 0;
           }
-         
+         .row2{
+        top:50px;
+        left:50px;
+        display: flex;
+         }
+      .column2 {
+           float: left;
+            width: 33.33%;
+            padding: 0;
+          }
 .marquee-box {
     padding-top: 5%;
     width: 100%;
